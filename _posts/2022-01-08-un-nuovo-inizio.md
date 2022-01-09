@@ -5,7 +5,7 @@ tags:
 - life
 ---
 
-Ciao, questo è un blog di un papà quasi quarantenne che di mestiere tenta di risolvere problemi progettando e programmando software (adesso capite da dove arriva il nome Forking Thoughts). Non me ne intendo un gran che di lingua italiana e di scrittura, ma spero che questo non sia un problema e che riesca comunque a metter giù qualche concetto in questo blog.
+Ciao, questo è un blog di un papà quasi quarantenne che di mestiere tenta di risolvere problemi progettando e programmando software. Non me ne intendo un gran che di lingua italiana e di scrittura, ma spero che questo non sia un problema e che riesca comunque a metter giù qualche concetto in questo blog.
 
 Nel tempo libero (ovvero il tempo che riesco a dedicare a me stesso) sono un gamer ed in generale mi piace non solo giocare ai videogiochi ma anche stare al passo con tutte le news riguardanti la critica e l'industria dei videogiochi.
 
