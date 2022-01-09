@@ -3,7 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Forking Thoughts
+name: Livellando
+
+# Author infos used in rss feed generation
+author:
+  name: Matteo Murgida
+  email: teomurgi@gmail.com
 
 # Short bio or description (displayed in the header)
 description: Blog di un papà programmatore e gamer
