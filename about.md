@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Questo è un blog di un papà quasi quarantenne che di mestiere tenta di risolvere problemi progettando e programmando software (adesso capite da dove arriva il nome Forking Thoughts).
+Questo è un blog di un papà quasi quarantenne che di mestiere tenta di risolvere problemi progettando e programmando software.
 
 Nel tempo libero (ovvero il tempo che riesco a dedicare a me stesso) sono un gamer ed in generale mi piace non solo giocare ai videogiochi ma anche stare al passo con tutte le news riguardanti la critica e l'industria dei videogiochi.
 

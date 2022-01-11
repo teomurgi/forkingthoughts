@@ -31,7 +31,7 @@ navigation:
     url: /about
 #  - name: Archive
 #    url: /archive
-  - name: Tags
+  - name: Archivio
     url: /tags
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
